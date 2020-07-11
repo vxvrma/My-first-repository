@@ -1,0 +1,13 @@
+#My first Colab Notebook
+
+print('Hello World!')
+
+##Introduction
+ 
+My name is Vishnu Nandan. I am a Masters student at VNIT Nagpur. This is my first Colab Notebook.
+
+##Purpose
+ 
+The purpose of this notebook is to familiarise with the working environment of Colab.
+
+print('Thank you!')
